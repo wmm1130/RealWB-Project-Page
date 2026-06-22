@@ -5,7 +5,6 @@ const navItems = [
   { name: 'Framework', href: '#framework' },
   { name: 'Findings', href: '#findings' },
   { name: 'Results', href: '#results' },
-  { name: 'Ethics', href: '#ethics' },
   { name: 'Citation', href: '#citation' },
 ]
 </script>
