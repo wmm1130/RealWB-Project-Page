@@ -101,7 +101,7 @@ export const resultSections = [
       'Most RWB events disappear quickly, but a small persistent minority sustains public visibility and drives aggregate attention patterns.',
     images: [
       {
-        src: '${base}public/images/results/combined_results.png',
+        src: '${base}/images/results/combined_results.png',
         alt: 'Monthly volume and event duration of RWB events',
         caption:
           'Monthly volume and event duration distribution show the flashstorm + long-tail pattern of RWB visibility.',
@@ -123,7 +123,7 @@ export const resultSections = [
       'The privacy cost of RWB is not limited to voluntary real-name disclosure; social media platforms amplify exposure through persistence, searchability, and redistribution.',
     images: [
       {
-        src: '${base}public/images/results/PII_textual_visual.png',
+        src: '${base}/images/results/PII_textual_visual.png',
         alt: 'PII exposure distribution',
         caption:
           'Distribution of PII exposure levels in RWB posts, showing widespread high-risk disclosure.',
@@ -145,7 +145,7 @@ export const resultSections = [
       'RWB succeeds less through one-off virality than through cumulative visibility that makes continued non-response more costly.',
     images: [
       {
-        src: '${base}public/images/results/platform_ep_comparison.png',
+        src: '${base}/images/results/platform_ep_comparison.png',
         alt: 'Progress comparison between single-platform and multi-platform events',
         caption:
           'Progress comparison between single-platform and multi-platform events.',
